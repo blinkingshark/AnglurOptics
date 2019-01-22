@@ -9,7 +9,7 @@ namespace Anglular_Optics_DotNet
     class Lense
     {
         private Double focalLenth;
-
+        
         public Lense(Double fL)
         {
             FoculLength = fL;
